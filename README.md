@@ -8,5 +8,6 @@ I have here packaged the SQI algorithm provided in the paper into a matlab tool 
 The devices mentioned in the paper include OctaMon, Brite 23, Brite 24, and OxyMon.
 
 RELATED:
+
 1.https://www.artinis.com/blogpost-all/2023/assessing-nirs-signal-quality-implementation-of-the-signal-quality-index-sqi
 2.https://opg.optica.org/boe/fulltext.cfm?uri=boe-11-11-6732&id=441993
