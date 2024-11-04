@@ -16,4 +16,5 @@ The following plug-ins need to be installed:
 RELATED:
 
 1.https://www.artinis.com/blogpost-all/2023/assessing-nirs-signal-quality-implementation-of-the-signal-quality-index-sqi  
-2.https://opg.optica.org/boe/fulltext.cfm?uri=boe-11-11-6732&id=441993
+2.https://opg.optica.org/boe/fulltext.cfm?uri=boe-11-11-6732&id=441993  
+3.https://zhuanlan.zhihu.com/p/4938113354
