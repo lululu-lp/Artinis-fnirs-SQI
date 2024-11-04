@@ -8,9 +8,9 @@ Signal quality is the reference standard for excluding channels and bad segments
 I have here packaged the SQI algorithm provided in the paper into a matlab tool that can read the file in oxysoft format directly and plot and save the data.
 
 Matlab version 2018 and above is recommended.
-The following plug-ins need to be installed:
-1.SignalQualityIndex
-2.Spm12
+The following plug-ins need to be installed:  
+1.SignalQualityIndex  
+2.Spm12  
 3.oxysoft2matlab
 
 RELATED:
